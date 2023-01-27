@@ -3,7 +3,6 @@
   <p> <img src=https://komarev.com/ghpvc/?username=Soumya-Dey alt=Soumya-Dey> </p>
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
 
 ### About Me
 
